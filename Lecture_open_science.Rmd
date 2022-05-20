@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ```{r, out.width = "600px", echo=FALSE, fig.align='center'}
-knitr::include_graphics("https://media.giphy.com/media/aBktINOpjrWAE/giphy.gif") 
+knitr::include_graphics("welcome.gif") 
 ```
 
 ---
